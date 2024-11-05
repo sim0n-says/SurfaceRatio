@@ -1,4 +1,4 @@
-# Surface Ratio
+# SurfaceRatio
 "Work in progress"
 ## Analyse Comparative
 Permet de comparer les superficies en fonction d'un champ (catégorie).
