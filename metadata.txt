@@ -1,0 +1,19 @@
+[general]
+name=SurfaceRatio
+description=Cette extension sert à comparer les superficies de deux couches géographiques.
+about=Analyse Comparative: Permet de comparer les superficies en fonction d'un champ (catégorie).
+    
+    Visualisation des Données: Offre des options pour visualiser les résultats sous forme de graphiques ou de tableaux, facilitant ainsi l’interprétation des données.
+    
+    Exportation des Résultats: Permet d’exporter les résultats de la comparaison sous forme de fichier CSV pour une analyse plus approfondie ou pour les partager avec d’autres utilisateurs.
+
+    MIT License
+    © 2024 Simon Bédard, simon@servicesforestiers.tech
+category=Vector
+version=1.0
+qgisMinimumVersion=3.0
+author=Simon Bédard
+email=simon@servicesforestiers.tech
+icon=icons/icon.png
+plugin_dependencies=PyQt5, qgis, matplotlib, pandas, numpy
+experimental=True
